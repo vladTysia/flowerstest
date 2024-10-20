@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flowerstest/static/css/main.91f37015.css",
+    "main.js": "/flowerstest/static/js/main.1b01cc98.js",
+    "static/js/453.07bc1902.chunk.js": "/flowerstest/static/js/453.07bc1902.chunk.js",
+    "index.html": "/flowerstest/index.html",
+    "main.91f37015.css.map": "/flowerstest/static/css/main.91f37015.css.map",
+    "main.1b01cc98.js.map": "/flowerstest/static/js/main.1b01cc98.js.map",
+    "453.07bc1902.chunk.js.map": "/flowerstest/static/js/453.07bc1902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f37015.css",
+    "static/js/main.1b01cc98.js"
+  ]
+}
